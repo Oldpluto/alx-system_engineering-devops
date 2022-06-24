@@ -1,2 +1,2 @@
 #!/bin/bash
-(chmod 744 hello & chmod 744 hello )
+(chmod u+wrx hello & chmod g+x hello & chmod o+x )
